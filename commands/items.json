@@ -1,0 +1,1466 @@
+{
+    "Clothes": [
+        {
+            "Name": "Basic Hat",
+            "Value": "160"
+        },
+        {
+            "Name": "Basic Shirt",
+            "Value": "300"
+        },
+        {
+            "Name": "Basic Shoes",
+            "Value": "270"
+        },
+        {
+            "Name": "Basic Trousers",
+            "Value": "300"
+        },
+        {
+            "Name": "Bronze Armour",
+            "Value": "2390"
+        },
+        {
+            "Name": "Bronze Bracers",
+            "Value": "810"
+        },
+        {
+            "Name": "Bronze Greaves",
+            "Value": "810"
+        },
+        {
+            "Name": "Bronze Helmet",
+            "Value": "790"
+        },
+        {
+            "Name": "Bronze Legwear",
+            "Value": "1570"
+        },
+        {
+            "Name": "Elite Armour",
+            "Value": "6050"
+        },
+        {
+            "Name": "Elite Bracers",
+            "Value": "1900"
+        },
+        {
+            "Name": "Elite Collar",
+            "Value": "4020"
+        },
+        {
+            "Name": "Elite Greaves",
+            "Value": "2000"
+        },
+        {
+            "Name": "Elite Helmet",
+            "Value": "2000"
+        },
+        {
+            "Name": "Elite Legwear",
+            "Value": "3820"
+        },
+        {
+            "Name": "Excellent Boots",
+            "Value": "1010"
+        },
+        {
+            "Name": "Excellent Coif",
+            "Value": "1440"
+        },
+        {
+            "Name": "Excellent Collar",
+            "Value": "2880"
+        },
+        {
+            "Name": "Excellent Gambeson",
+            "Value": "3160"
+        },
+        {
+            "Name": "Excellent Gloves",
+            "Value": "1400"
+        },
+        {
+            "Name": "Fine Dress",
+            "Value": "850"
+        },
+        {
+            "Name": "Fine Hat",
+            "Value": "740"
+        },
+        {
+            "Name": "Fine Hood",
+            "Value": "630"
+        },
+        {
+            "Name": "Fine Hose",
+            "Value": "810"
+        },
+        {
+            "Name": "Fine Shoes",
+            "Value": "730"
+        },
+        {
+            "Name": "Fine Tunic",
+            "Value": "550"
+        },
+        {
+            "Name": "Iron Armour",
+            "Value": "3680"
+        },
+        {
+            "Name": "Iron Bracers",
+            "Value": "1110"
+        },
+        {
+            "Name": "Iron Greaves",
+            "Value": "1190"
+        },
+        {
+            "Name": "Iron Helmet",
+            "Value": "1170"
+        },
+        {
+            "Name": "Iron Legwear",
+            "Value": "2500"
+        },
+        {
+            "Name": "Large Pouch",
+            "Value": "440"
+        },
+        {
+            "Name": "Large Saddlebag",
+            "Value": "1160"
+        },
+        {
+            "Name": "Light Dress",
+            "Value": "720"
+        },
+        {
+            "Name": "Light Hat",
+            "Value": "680"
+        },
+        {
+            "Name": "Light Shoes",
+            "Value": "730"
+        },
+        {
+            "Name": "Light Trousers",
+            "Value": "700"
+        },
+        {
+            "Name": "Light Tunic",
+            "Value": "720"
+        },
+        {
+            "Name": "Noble Dress",
+            "Value": "1410"
+        },
+        {
+            "Name": "Noble Hat",
+            "Value": "1240"
+        },
+        {
+            "Name": "Noble Hood",
+            "Value": "1400"
+        },
+        {
+            "Name": "Noble Hose",
+            "Value": "1000"
+        },
+        {
+            "Name": "Noble Shoes",
+            "Value": "900"
+        },
+        {
+            "Name": "Noble Tunic",
+            "Value": "1410"
+        },
+        {
+            "Name": "Ornate Saddle",
+            "Value": "1440"
+        },
+        {
+            "Name": "Pouch",
+            "Value": "180"
+        },
+        {
+            "Name": "Rich Boots",
+            "Value": "1800"
+        },
+        {
+            "Name": "Rich Coat",
+            "Value": "1100"
+        },
+        {
+            "Name": "Rich Gloves",
+            "Value": "840"
+        },
+        {
+            "Name": "Rich Hat",
+            "Value": "1410"
+        },
+        {
+            "Name": "Rich Hood",
+            "Value": "1310"
+        },
+        {
+            "Name": "Rich Trousers",
+            "Value": "1440"
+        },
+        {
+            "Name": "Saddle",
+            "Value": "760"
+        },
+        {
+            "Name": "Saddlebag",
+            "Value": "1020"
+        },
+        {
+            "Name": "Simple Backpack",
+            "Value": "380"
+        },
+        {
+            "Name": "Simple Coif",
+            "Value": "460"
+        },
+        {
+            "Name": "Simple Dress",
+            "Value": "550"
+        },
+        {
+            "Name": "Simple Hood",
+            "Value": "320"
+        },
+        {
+            "Name": "Simple Large Backpack",
+            "Value": "760"
+        },
+        {
+            "Name": "Simple Shoes",
+            "Value": "290"
+        },
+        {
+            "Name": "Simple Small Backpack",
+            "Value": "210"
+        },
+        {
+            "Name": "Simple Trousers",
+            "Value": "490"
+        },
+        {
+            "Name": "Simple Tunic",
+            "Value": "550"
+        },
+        {
+            "Name": "Small Pouch",
+            "Value": "70"
+        },
+        {
+            "Name": "Small Saddlebag",
+            "Value": "380"
+        },
+        {
+            "Name": "Thick Boots",
+            "Value": "330"
+        },
+        {
+            "Name": "Thick Coif",
+            "Value": "1110"
+        },
+        {
+            "Name": "Thick Gambeson",
+            "Value": "3040"
+        },
+        {
+            "Name": "Thick Gloves",
+            "Value": "1000"
+        },
+        {
+            "Name": "Thin Boots",
+            "Value": "220"
+        },
+        {
+            "Name": "Thin Gambeson",
+            "Value": "1400"
+        },
+        {
+            "Name": "Thin Gloves",
+            "Value": "220"
+        },
+        {
+            "Name": "Warm Boots",
+            "Value": "830"
+        },
+        {
+            "Name": "Warm Coat",
+            "Value": "1530"
+        },
+        {
+            "Name": "Warm Gloves",
+            "Value": "420"
+        },
+        {
+            "Name": "Warm Hat",
+            "Value": "810"
+        },
+        {
+            "Name": "Warm Shawl",
+            "Value": "810"
+        },
+        {
+            "Name": "Warm Trousers",
+            "Value": "1090"
+        },
+        {
+            "Name": "Winter Bracers",
+            "Value": "70"
+        },
+        {
+            "Name": "Winter Cap",
+            "Value": "100"
+        },
+        {
+            "Name": "Winter Coat",
+            "Value": "210"
+        },
+        {
+            "Name": "Winter Collar",
+            "Value": "130"
+        },
+        {
+            "Name": "Winter Shoes",
+            "Value": "240"
+        },
+        {
+            "Name": "Winter Trousers",
+            "Value": "150"
+        }
+    ],
+    "Food": [
+        {
+            "Name": "Apple",
+            "Value": "4"
+        },
+        {
+            "Name": "Apple Juice",
+            "Value": "60"
+        },
+        {
+            "Name": "Apple Wine",
+            "Value": "140"
+        },
+        {
+            "Name": "Beetroot",
+            "Value": "3"
+        },
+        {
+            "Name": "Berry",
+            "Value": "0,2"
+        },
+        {
+            "Name": "Berry Juice",
+            "Value": "23"
+        },
+        {
+            "Name": "Berry Wine",
+            "Value": "60"
+        },
+        {
+            "Name": "Bucket of Milk",
+            "Value": "68"
+        },
+        {
+            "Name": "Bucket of Soured Milk",
+            "Value": "96"
+        },
+        {
+            "Name": "Bucket of Water",
+            "Value": "9"
+        },
+        {
+            "Name": "Cabbage",
+            "Value": "3"
+        },
+        {
+            "Name": "Carrot",
+            "Value": "2"
+        },
+        {
+            "Name": "Cheese",
+            "Value": "50"
+        },
+        {
+            "Name": "Cherry",
+            "Value": "3"
+        },
+        {
+            "Name": "Cherry Juice",
+            "Value": "130"
+        },
+        {
+            "Name": "Cherry Pie",
+            "Value": "150"
+        },
+        {
+            "Name": "Cherry Wine",
+            "Value": "310"
+        },
+        {
+            "Name": "Dried Fish Meat",
+            "Value": "20"
+        },
+        {
+            "Name": "Dried Meat",
+            "Value": "6"
+        },
+        {
+            "Name": "Egg",
+            "Value": "1"
+        },
+        {
+            "Name": "Fish Meat",
+            "Value": "10"
+        },
+        {
+            "Name": "Fish Tart",
+            "Value": "140"
+        },
+        {
+            "Name": "Flatbread",
+            "Value": "9"
+        },
+        {
+            "Name": "Flatbread with Onion",
+            "Value": "13"
+        },
+        {
+            "Name": "Fruit Pie",
+            "Value": "70"
+        },
+        {
+            "Name": "Fruit Tart",
+            "Value": "50"
+        },
+        {
+            "Name": "Gruel",
+            "Value": "17"
+        },
+        {
+            "Name": "Honeycomb",
+            "Value": "10"
+        },
+        {
+            "Name": "Mead",
+            "Value": "210"
+        },
+        {
+            "Name": "Meat",
+            "Value": "3"
+        },
+        {
+            "Name": "Meat Pie",
+            "Value": "110"
+        },
+        {
+            "Name": "Meat Tart",
+            "Value": "60"
+        },
+        {
+            "Name": "Meat with Gravy",
+            "Value": "23"
+        },
+        {
+            "Name": "Multigrain Bread",
+            "Value": "60"
+        },
+        {
+            "Name": "Mushroom Soup",
+            "Value": "11"
+        },
+        {
+            "Name": "Oat Ale",
+            "Value": "100"
+        },
+        {
+            "Name": "Oat Beer",
+            "Value": "150"
+        },
+        {
+            "Name": "Oat Roll",
+            "Value": "21"
+        },
+        {
+            "Name": "Onion",
+            "Value": "3"
+        },
+        {
+            "Name": "Pear",
+            "Value": "4"
+        },
+        {
+            "Name": "Pear Juice",
+            "Value": "100"
+        },
+        {
+            "Name": "Pear Tart",
+            "Value": "80"
+        },
+        {
+            "Name": "Pear Wine",
+            "Value": "240"
+        },
+        {
+            "Name": "Perch",
+            "Value": "21"
+        },
+        {
+            "Name": "Pike",
+            "Value": "36"
+        },
+        {
+            "Name": "Plum",
+            "Value": "3"
+        },
+        {
+            "Name": "Plum Juice",
+            "Value": "130"
+        },
+        {
+            "Name": "Plum Tart",
+            "Value": "100"
+        },
+        {
+            "Name": "Plum Wine",
+            "Value": "320"
+        },
+        {
+            "Name": "Poppy Seed Pie",
+            "Value": "120"
+        },
+        {
+            "Name": "Porridge",
+            "Value": "17"
+        },
+        {
+            "Name": "Porridge with Apple",
+            "Value": "39"
+        },
+        {
+            "Name": "Porridge with Berries",
+            "Value": "28"
+        },
+        {
+            "Name": "Potage",
+            "Value": "26"
+        },
+        {
+            "Name": "Quark",
+            "Value": "17"
+        },
+        {
+            "Name": "Roach",
+            "Value": "7"
+        },
+        {
+            "Name": "Roasted Fish Meat",
+            "Value": "19"
+        },
+        {
+            "Name": "Roasted Meat",
+            "Value": "6"
+        },
+        {
+            "Name": "Rye Beer",
+            "Value": "170"
+        },
+        {
+            "Name": "Rye Bread",
+            "Value": "32"
+        },
+        {
+            "Name": "Salted Fish Meat",
+            "Value": "23"
+        },
+        {
+            "Name": "Salted Meat",
+            "Value": "8"
+        },
+        {
+            "Name": "Scrambled Eggs",
+            "Value": "7"
+        },
+        {
+            "Name": "Scrambled Eggs with Mushroom",
+            "Value": "12"
+        },
+        {
+            "Name": "Soup",
+            "Value": "39"
+        },
+        {
+            "Name": "Stew",
+            "Value": "20"
+        },
+        {
+            "Name": "Unripe Berry",
+            "Value": "0,2"
+        },
+        {
+            "Name": "Vegetable Soup",
+            "Value": "38"
+        },
+        {
+            "Name": "Wheat Beer",
+            "Value": "150"
+        },
+        {
+            "Name": "Wheat Bread",
+            "Value": "34"
+        },
+        {
+            "Name": "Wheat Roll",
+            "Value": "23"
+        },
+        {
+            "Name": "White Bread",
+            "Value": "23"
+        }
+    ],
+    "Herbs": [
+        {
+            "Name": "Bitter Bolete Mushroom",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Bolete Mushroom",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Broadleaf Plantain",
+            "Value": "0,7"
+        },
+        {
+            "Name": "Chicory",
+            "Value": "0,5"
+        },
+        {
+            "Name": "Daisy",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Dandelion",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Deadly Nightshade",
+            "Value": "0,7"
+        },
+        {
+            "Name": "Fly Agaric Mushroom",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Henbane",
+            "Value": "0,7"
+        },
+        {
+            "Name": "Morel Mushroom",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Parasol Mushroom",
+            "Value": "0,6"
+        },
+        {
+            "Name": "Poison",
+            "Value": "8"
+        },
+        {
+            "Name": "Potion of Camouflage",
+            "Value": "14"
+        },
+        {
+            "Name": "Potion of Cure",
+            "Value": "12"
+        },
+        {
+            "Name": "Potion of Healing I",
+            "Value": "14"
+        },
+        {
+            "Name": "Potion of Healing II",
+            "Value": "30"
+        },
+        {
+            "Name": "Potion of Health",
+            "Value": "35"
+        },
+        {
+            "Name": "Potion of Instant Cure",
+            "Value": "10"
+        },
+        {
+            "Name": "Potion of Instant Healing I",
+            "Value": "5"
+        },
+        {
+            "Name": "Potion of Instant Healing II",
+            "Value": "14"
+        },
+        {
+            "Name": "Potion of Night Vision",
+            "Value": "25"
+        },
+        {
+            "Name": "Potion of Possibilities",
+            "Value": "470"
+        },
+        {
+            "Name": "Potion of Satiety",
+            "Value": "13"
+        },
+        {
+            "Name": "Potion of Saturation",
+            "Value": "11"
+        },
+        {
+            "Name": "Potion of Sobriety",
+            "Value": "8"
+        },
+        {
+            "Name": "Potion of Stamina",
+            "Value": "12"
+        },
+        {
+            "Name": "Potion of Strength",
+            "Value": "8"
+        },
+        {
+            "Name": "Potion of Temperature",
+            "Value": "34"
+        },
+        {
+            "Name": "Potion of Weight",
+            "Value": "37"
+        },
+        {
+            "Name": "Red Pine Mushroom",
+            "Value": "0,6"
+        },
+        {
+            "Name": "St. Johns Wort",
+            "Value": "0,5"
+        },
+        {
+            "Name": "Thistle",
+            "Value": "0,7"
+        },
+        {
+            "Name": "Wooly Milkcap Mushroom",
+            "Value": "0,6"
+        }
+    ],
+    "None": [
+        {
+            "Name": "Rot",
+            "Value": "0"
+        }
+    ],
+    "Resources": [
+        {
+            "Name": "Animal Feed",
+            "Value": "16"
+        },
+        {
+            "Name": "Ash",
+            "Value": "0,2"
+        },
+        {
+            "Name": "Beer Bottle",
+            "Value": "6"
+        },
+        {
+            "Name": "Beetroot Seed",
+            "Value": "5"
+        },
+        {
+            "Name": "Black Dye",
+            "Value": "150"
+        },
+        {
+            "Name": "Blue Dye",
+            "Value": "23"
+        },
+        {
+            "Name": "Bronze Bar",
+            "Value": "140"
+        },
+        {
+            "Name": "Cabbage Seed",
+            "Value": "5"
+        },
+        {
+            "Name": "Carrot Seed",
+            "Value": "5"
+        },
+        {
+            "Name": "Clay",
+            "Value": "0,4"
+        },
+        {
+            "Name": "Clay Bottle",
+            "Value": "4"
+        },
+        {
+            "Name": "Clay Bowl",
+            "Value": "2"
+        },
+        {
+            "Name": "Clay Cup",
+            "Value": "0,8"
+        },
+        {
+            "Name": "Clay Jug",
+            "Value": "3"
+        },
+        {
+            "Name": "Clay Mug",
+            "Value": "2"
+        },
+        {
+            "Name": "Clay Vase",
+            "Value": "3"
+        },
+        {
+            "Name": "Clay Vase with Chicory",
+            "Value": "6"
+        },
+        {
+            "Name": "Clay Vase with Daisy",
+            "Value": "6"
+        },
+        {
+            "Name": "Clay Vase with Dandelion",
+            "Value": "6"
+        },
+        {
+            "Name": "Clay Vase with Henbane",
+            "Value": "6"
+        },
+        {
+            "Name": "Clay Vase with St. Johns Wort",
+            "Value": "6"
+        },
+        {
+            "Name": "Clay Vase with Thistle",
+            "Value": "6"
+        },
+        {
+            "Name": "Clay Vial",
+            "Value": "0,8"
+        },
+        {
+            "Name": "Copper Bar",
+            "Value": "28"
+        },
+        {
+            "Name": "Copper Ore",
+            "Value": "7"
+        },
+        {
+            "Name": "Daub",
+            "Value": "1"
+        },
+        {
+            "Name": "Decolouriser",
+            "Value": "25"
+        },
+        {
+            "Name": "Feather",
+            "Value": "0,9"
+        },
+        {
+            "Name": "Fertiliser",
+            "Value": "4"
+        },
+        {
+            "Name": "Firewood",
+            "Value": "0,9"
+        },
+        {
+            "Name": "Flax",
+            "Value": "7"
+        },
+        {
+            "Name": "Flax Seed",
+            "Value": "6"
+        },
+        {
+            "Name": "Flax Stalk",
+            "Value": "5"
+        },
+        {
+            "Name": "Flour",
+            "Value": "4"
+        },
+        {
+            "Name": "Fur",
+            "Value": "4"
+        },
+        {
+            "Name": "Green Dye",
+            "Value": "140"
+        },
+        {
+            "Name": "Hop",
+            "Value": "3"
+        },
+        {
+            "Name": "Iron Bar",
+            "Value": "90"
+        },
+        {
+            "Name": "Iron Ore",
+            "Value": "17"
+        },
+        {
+            "Name": "Large Wicker Basket",
+            "Value": "8"
+        },
+        {
+            "Name": "Leather",
+            "Value": "8"
+        },
+        {
+            "Name": "Limestone",
+            "Value": "2"
+        },
+        {
+            "Name": "Linen Fabric",
+            "Value": "80"
+        },
+        {
+            "Name": "Linen Thread",
+            "Value": "40"
+        },
+        {
+            "Name": "Log",
+            "Value": "1"
+        },
+        {
+            "Name": "Manure",
+            "Value": "0,9"
+        },
+        {
+            "Name": "Mead Bottle",
+            "Value": "6"
+        },
+        {
+            "Name": "Medium Wicker Basket",
+            "Value": "5"
+        },
+        {
+            "Name": "Oat",
+            "Value": "6"
+        },
+        {
+            "Name": "Oat Grain",
+            "Value": "4"
+        },
+        {
+            "Name": "Onion Seed",
+            "Value": "5"
+        },
+        {
+            "Name": "Orange Dye",
+            "Value": "130"
+        },
+        {
+            "Name": "Plank",
+            "Value": "2"
+        },
+        {
+            "Name": "Poppy",
+            "Value": "6"
+        },
+        {
+            "Name": "Poppy Seed",
+            "Value": "3"
+        },
+        {
+            "Name": "Red Dye",
+            "Value": "19"
+        },
+        {
+            "Name": "Rye",
+            "Value": "6"
+        },
+        {
+            "Name": "Rye Grain",
+            "Value": "4"
+        },
+        {
+            "Name": "Salt",
+            "Value": "7"
+        },
+        {
+            "Name": "Small Wicker Basket",
+            "Value": "3"
+        },
+        {
+            "Name": "Spruce Bark",
+            "Value": "0,2"
+        },
+        {
+            "Name": "Stick",
+            "Value": "0,3"
+        },
+        {
+            "Name": "Stone",
+            "Value": "0,4"
+        },
+        {
+            "Name": "Straw",
+            "Value": "0,1"
+        },
+        {
+            "Name": "Tin Bar",
+            "Value": "35"
+        },
+        {
+            "Name": "Tin Ore",
+            "Value": "8"
+        },
+        {
+            "Name": "Violet Dye",
+            "Value": "180"
+        },
+        {
+            "Name": "Wheat",
+            "Value": "6"
+        },
+        {
+            "Name": "Wheat Grain",
+            "Value": "5"
+        },
+        {
+            "Name": "Wicker Crate",
+            "Value": "11"
+        },
+        {
+            "Name": "Wine Bottle",
+            "Value": "6"
+        },
+        {
+            "Name": "Wooden Bowl",
+            "Value": "0,8"
+        },
+        {
+            "Name": "Wooden Cup",
+            "Value": "0,8"
+        },
+        {
+            "Name": "Wooden Ladle",
+            "Value": "2"
+        },
+        {
+            "Name": "Wooden Plate",
+            "Value": "0,8"
+        },
+        {
+            "Name": "Wooden Spoon",
+            "Value": "2"
+        },
+        {
+            "Name": "Wooden Vial",
+            "Value": "0,4"
+        },
+        {
+            "Name": "Wooden Wheel",
+            "Value": "18"
+        },
+        {
+            "Name": "Wool",
+            "Value": "5"
+        },
+        {
+            "Name": "Wool Fabric",
+            "Value": "140"
+        },
+        {
+            "Name": "Wool Thread",
+            "Value": "70"
+        },
+        {
+            "Name": "Yellow Dye",
+            "Value": "40"
+        }
+    ],
+    "Tools": [
+        {
+            "Name": "Bag",
+            "Value": "190"
+        },
+        {
+            "Name": "Bow",
+            "Value": "170"
+        },
+        {
+            "Name": "Bronze Arrow",
+            "Value": "32"
+        },
+        {
+            "Name": "Bronze Axe",
+            "Value": "590"
+        },
+        {
+            "Name": "Bronze Battle Axe",
+            "Value": "280"
+        },
+        {
+            "Name": "Bronze Bolt",
+            "Value": "32"
+        },
+        {
+            "Name": "Bronze Dagger",
+            "Value": "150"
+        },
+        {
+            "Name": "Bronze Hammer",
+            "Value": "290"
+        },
+        {
+            "Name": "Bronze Hoe",
+            "Value": "290"
+        },
+        {
+            "Name": "Bronze Kite Shield",
+            "Value": "560"
+        },
+        {
+            "Name": "Bronze Knife",
+            "Value": "300"
+        },
+        {
+            "Name": "Bronze Mace",
+            "Value": "340"
+        },
+        {
+            "Name": "Bronze Pick",
+            "Value": "340"
+        },
+        {
+            "Name": "Bronze Pickaxe",
+            "Value": "590"
+        },
+        {
+            "Name": "Bronze Round Shield",
+            "Value": "450"
+        },
+        {
+            "Name": "Bronze Scythe",
+            "Value": "590"
+        },
+        {
+            "Name": "Bronze Shearing Scissors",
+            "Value": "150"
+        },
+        {
+            "Name": "Bronze Shovel",
+            "Value": "590"
+        },
+        {
+            "Name": "Bronze Sickle",
+            "Value": "300"
+        },
+        {
+            "Name": "Bronze Spear",
+            "Value": "450"
+        },
+        {
+            "Name": "Bronze Sword",
+            "Value": "290"
+        },
+        {
+            "Name": "Bucket",
+            "Value": "8"
+        },
+        {
+            "Name": "Copper Arrow",
+            "Value": "14"
+        },
+        {
+            "Name": "Copper Axe",
+            "Value": "220"
+        },
+        {
+            "Name": "Copper Bolt",
+            "Value": "14"
+        },
+        {
+            "Name": "Copper Hammer",
+            "Value": "110"
+        },
+        {
+            "Name": "Copper Hoe",
+            "Value": "110"
+        },
+        {
+            "Name": "Copper Kite Shield",
+            "Value": "290"
+        },
+        {
+            "Name": "Copper Knife",
+            "Value": "110"
+        },
+        {
+            "Name": "Copper Round Shield",
+            "Value": "260"
+        },
+        {
+            "Name": "Copper Shovel",
+            "Value": "220"
+        },
+        {
+            "Name": "Copper Sickle",
+            "Value": "120"
+        },
+        {
+            "Name": "Copper Spear",
+            "Value": "200"
+        },
+        {
+            "Name": "Cudgel",
+            "Value": "4"
+        },
+        {
+            "Name": "Elite Mace",
+            "Value": "890"
+        },
+        {
+            "Name": "Elite Pick",
+            "Value": "890"
+        },
+        {
+            "Name": "Elite Shield",
+            "Value": "1260"
+        },
+        {
+            "Name": "Elite Sword",
+            "Value": "880"
+        },
+        {
+            "Name": "Fishing Spear",
+            "Value": "50"
+        },
+        {
+            "Name": "Hand Lantern",
+            "Value": "320"
+        },
+        {
+            "Name": "Iron Arrow",
+            "Value": "50"
+        },
+        {
+            "Name": "Iron Axe",
+            "Value": "880"
+        },
+        {
+            "Name": "Iron Battle Axe",
+            "Value": "380"
+        },
+        {
+            "Name": "Iron Bolt",
+            "Value": "50"
+        },
+        {
+            "Name": "Iron Crossbow",
+            "Value": "1530"
+        },
+        {
+            "Name": "Iron Dagger",
+            "Value": "210"
+        },
+        {
+            "Name": "Iron Hammer",
+            "Value": "430"
+        },
+        {
+            "Name": "Iron Hoe",
+            "Value": "440"
+        },
+        {
+            "Name": "Iron Horseshoes",
+            "Value": "440"
+        },
+        {
+            "Name": "Iron Kite Shield",
+            "Value": "740"
+        },
+        {
+            "Name": "Iron Knife",
+            "Value": "440"
+        },
+        {
+            "Name": "Iron Mace",
+            "Value": "410"
+        },
+        {
+            "Name": "Iron Pick",
+            "Value": "410"
+        },
+        {
+            "Name": "Iron Pickaxe",
+            "Value": "880"
+        },
+        {
+            "Name": "Iron Scythe",
+            "Value": "880"
+        },
+        {
+            "Name": "Iron Shearing Scissors",
+            "Value": "220"
+        },
+        {
+            "Name": "Iron Shovel",
+            "Value": "860"
+        },
+        {
+            "Name": "Iron Sickle",
+            "Value": "440"
+        },
+        {
+            "Name": "Iron Spear",
+            "Value": "610"
+        },
+        {
+            "Name": "Iron Sword",
+            "Value": "410"
+        },
+        {
+            "Name": "Longbow",
+            "Value": "370"
+        },
+        {
+            "Name": "Poisoned Bronze Arrow",
+            "Value": "70"
+        },
+        {
+            "Name": "Poisoned Bronze Bolt",
+            "Value": "70"
+        },
+        {
+            "Name": "Poisoned Copper Arrow",
+            "Value": "26"
+        },
+        {
+            "Name": "Poisoned Copper Bolt",
+            "Value": "26"
+        },
+        {
+            "Name": "Poisoned Iron Arrow",
+            "Value": "100"
+        },
+        {
+            "Name": "Poisoned Iron Bolt",
+            "Value": "100"
+        },
+        {
+            "Name": "Poisoned Stone Arrow",
+            "Value": "8"
+        },
+        {
+            "Name": "Poisoned Wooden Bolt",
+            "Value": "7"
+        },
+        {
+            "Name": "Recurve Bow",
+            "Value": "600"
+        },
+        {
+            "Name": "Simple Bag",
+            "Value": "14"
+        },
+        {
+            "Name": "Simple Torch",
+            "Value": "3"
+        },
+        {
+            "Name": "Spiked Cudgel",
+            "Value": "60"
+        },
+        {
+            "Name": "Stone Arrow",
+            "Value": "3"
+        },
+        {
+            "Name": "Stone Axe",
+            "Value": "7"
+        },
+        {
+            "Name": "Stone Hoe",
+            "Value": "9"
+        },
+        {
+            "Name": "Stone Knife",
+            "Value": "5"
+        },
+        {
+            "Name": "Stone Pickaxe",
+            "Value": "7"
+        },
+        {
+            "Name": "Stone Sickle",
+            "Value": "6"
+        },
+        {
+            "Name": "Stone Spear",
+            "Value": "80"
+        },
+        {
+            "Name": "Throwing Stone",
+            "Value": "0,2"
+        },
+        {
+            "Name": "Torch",
+            "Value": "33"
+        },
+        {
+            "Name": "Waterskin",
+            "Value": "32"
+        },
+        {
+            "Name": "Waterskin with Water",
+            "Value": "32"
+        },
+        {
+            "Name": "Wooden Bolt",
+            "Value": "3"
+        },
+        {
+            "Name": "Wooden Crossbow",
+            "Value": "360"
+        },
+        {
+            "Name": "Wooden Hammer",
+            "Value": "9"
+        },
+        {
+            "Name": "Wooden Hoe",
+            "Value": "7"
+        },
+        {
+            "Name": "Wooden Round Shield",
+            "Value": "150"
+        },
+        {
+            "Name": "Wooden Shovel",
+            "Value": "7"
+        },
+        {
+            "Name": "Wooden Spear",
+            "Value": "4"
+        }
+    ]
+}
